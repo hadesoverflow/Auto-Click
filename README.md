@@ -1,5 +1,3 @@
-Dưới đây là nội dung mô tả phù hợp để bạn đưa vào `README.md` trên GitHub:
-
 ---
 
 # 🖱️ Auto Clicker
