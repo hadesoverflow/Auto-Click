@@ -4,16 +4,16 @@ Dưới đây là nội dung mô tả phù hợp để bạn đưa vào `README.
 
 # 🖱️ Auto Clicker
 
-**Tác giả:** hadesoverflow
-**Ngôn ngữ:** Python + PyQt5
-**Mục đích:** Tự động click chuột tại nhiều vị trí với các tùy chọn linh hoạt
+- **Tác giả:** hadesoverflow
+- **Ngôn ngữ:** Python + PyQt5
+- **Mục đích:** Tự động click chuột tại nhiều vị trí với các tùy chọn linh hoạt
 
 # 📚 Thư viện đã dùng trong Project: 
-`pip install pyautogui`
-`pip install pyqt5 pyautogui`
-`pip install keyboard`
-`pip install pygetwindow`
-`pip install pywinauto`
+- `pip install pyautogui`
+- `pip install pyqt5 pyautogui`
+- `pip install keyboard`
+- `pip install pygetwindow`
+- `pip install pywinauto`
 
 ## 🔧 Tính năng
 
